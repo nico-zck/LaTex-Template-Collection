@@ -1,3 +1,9 @@
+### macOS template
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
